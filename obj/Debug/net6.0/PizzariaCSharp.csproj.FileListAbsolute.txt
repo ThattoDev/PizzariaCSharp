@@ -1,0 +1,15 @@
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\PizzariaCSharp\bin\Debug\net6.0\PizzariaCSharp.exe
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\PizzariaCSharp\bin\Debug\net6.0\PizzariaCSharp.deps.json
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\PizzariaCSharp\bin\Debug\net6.0\PizzariaCSharp.runtimeconfig.json
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\PizzariaCSharp\bin\Debug\net6.0\PizzariaCSharp.dll
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\PizzariaCSharp\bin\Debug\net6.0\PizzariaCSharp.pdb
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\PizzariaCSharp\obj\Debug\net6.0\PizzariaCSharp.csproj.AssemblyReference.cache
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\PizzariaCSharp\obj\Debug\net6.0\PizzariaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\PizzariaCSharp\obj\Debug\net6.0\PizzariaCSharp.AssemblyInfoInputs.cache
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\PizzariaCSharp\obj\Debug\net6.0\PizzariaCSharp.AssemblyInfo.cs
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\PizzariaCSharp\obj\Debug\net6.0\PizzariaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\PizzariaCSharp\obj\Debug\net6.0\PizzariaCSharp.dll
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\PizzariaCSharp\obj\Debug\net6.0\refint\PizzariaCSharp.dll
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\PizzariaCSharp\obj\Debug\net6.0\PizzariaCSharp.pdb
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\PizzariaCSharp\obj\Debug\net6.0\PizzariaCSharp.genruntimeconfig.cache
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\PizzariaCSharp\obj\Debug\net6.0\ref\PizzariaCSharp.dll
